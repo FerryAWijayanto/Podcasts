@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  DownloadController.swift
 //  PodcastsCourseLBTA
 //
 //  Created by Ferry Adi Wijayanto on 17/08/19.
@@ -8,13 +8,10 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class DownloadController: UITableViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+
     }
-
-
 }
-
